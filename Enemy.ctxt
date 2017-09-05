@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=ename\ ehp
+comment0.target=Enemy(java.lang.String,\ int)
+comment1.params=hploss
+comment1.target=void\ setHP(int)
+comment2.params=
+comment2.target=int\ getHP()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=max\ min
+comment4.target=int\ enemyDmg(int,\ int)
+numComments=5
